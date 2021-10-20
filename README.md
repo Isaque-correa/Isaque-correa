@@ -6,8 +6,8 @@
 - 📖 Atualmente estou estudando react.
 <br>
 <div>
- <img height="175"  src="https://github-readme-stats.vercel.app/api?username=Isaque-correa&show_icons=true&theme=merko"/>
- <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-correa&layout=compact&theme=merko"/>
+ <img height="170"  src="https://github-readme-stats.vercel.app/api?username=Isaque-correa&show_icons=true&theme=merko"/>
+ <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-correa&layout=compact&theme=merko"/>
 </div>
 <br>
 <div>
