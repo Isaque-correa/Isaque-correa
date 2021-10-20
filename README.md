@@ -5,9 +5,9 @@
 - 💼 Sou front-end junior.
 - 📖 Atualmente estou estudando react.
 <br>
-<div style="display:flex">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Isaque-correa&show_icons=true&theme=radical"/>
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-correa&layout=compact&theme=radical"/>
+<div>
+ <img  src="https://github-readme-stats.vercel.app/api?username=Isaque-correa&show_icons=true&theme=merko"/>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-correa&layout=compact&theme=merko"/>
 </div>
 <br>
 <div>
